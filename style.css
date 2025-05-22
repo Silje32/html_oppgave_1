@@ -4,6 +4,10 @@ body {
   background-color: cornflowerblue;
 }
 
+header {
+  background-color: white;
+}
+
 img {
   width: 200px;
 }
