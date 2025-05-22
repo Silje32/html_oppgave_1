@@ -18,12 +18,12 @@ h1 {
 
 main {
   min-height: 50svh;
-  background-color: lightblue;
 }
 
 #Skilpadde {
   background-color: red;
   text-align: center;
+  background-color: lightblue;
 }
 
 img {
