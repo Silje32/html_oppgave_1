@@ -40,4 +40,6 @@ p {
 
 img {
   width: 250px;
+  border: 2px white solid;
+  border-radius: 30%;
 }
