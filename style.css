@@ -1,4 +1,4 @@
-/* body, header, h1, h2,  main, section - #Skilpadde, article - p, img */
+/* body, header, h1, h2,  main, section - #Skilpadde, article - .Mat, p, img */
 
 body {
   background-color: cornflowerblue;
@@ -31,6 +31,10 @@ main {
   background-color: red;
   text-align: center;
   background-color: darkblue;
+}
+
+.Mat {
+  padding: 20px;
 }
 
 p {
