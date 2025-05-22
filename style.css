@@ -6,7 +6,7 @@ body {
 
 header {
   background-color: white;
-  min-height: 100svh;
+  min-height: 50svh;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 }
 
 main {
-  min-height: 100svh;
+  min-height: 50svh;
   background-color: lightblue;
 }
 
