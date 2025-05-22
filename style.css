@@ -13,6 +13,11 @@ h1 {
   text-align: center;
 }
 
+main {
+  min-height: 100svh;
+  background-color: lightblue;
+}
+
 img {
   width: 200px;
 }
