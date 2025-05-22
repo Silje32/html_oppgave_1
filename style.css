@@ -1,4 +1,4 @@
-/* body, header, h1, main, section - #Skilpadde, article - p, img */
+/* body, header, h1, h2,  main, section - #Skilpadde, article - p, img */
 
 body {
   background-color: cornflowerblue;
@@ -14,6 +14,12 @@ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 main {
